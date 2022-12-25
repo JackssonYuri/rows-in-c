@@ -1,3 +1,4 @@
+Para compilação:
 
 all: main
 
